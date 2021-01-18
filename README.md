@@ -5,8 +5,8 @@ Uma calculadora de IMC utilizando HTML, CSS e JavaScript.
 <img src="img/final.png">
 </p>
 
-##Descrição 
+## Descrição 
 Aplicação que calcula IMC, mostrando diferentes níveis e bloqueando caso o usuário coloque alguma informação inválida. 
 
-##Conhecimentos 
+## Conhecimentos adquiridos
 Pude trabalhar ainda mais com functions no JavaScript e entender melhor o seu funcionamento. Além de novos recursos para CSS como o botão animado. 
