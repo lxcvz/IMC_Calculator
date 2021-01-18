@@ -1,0 +1,116 @@
+:root {
+    --primary-color: #07689f;
+}
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to bottom right ,#07689f,#a2d5f2, #fafafa) fixed;  
+    font-family: Nunito, Helvetica, Arial, sans-serif;
+}
+/* ###### CONTAINER AREA ####### */
+#container {
+    background: white;
+    border-radius: 10px;
+    max-width: 40VW;
+    box-shadow: #07689f 0px 20px 30px -10px;
+    margin: 5vw auto;
+    padding: 10px;
+}
+
+#container h1 {
+    text-align: center;
+    color: var(--primary-color);
+}
+
+#main-container {
+    max-width: 25vw;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    color: #707070;
+}
+/* ###### FORM AREA ####### */
+form input, form label {
+    display: flex;
+    width: 50%;
+    border-radius: 4px;
+    border-color: gray;
+    margin: auto;
+}
+
+form input {
+    font-size: 20px;
+    height: 30px;
+    padding: 0 20px;
+    margin-bottom: 20px;
+}
+
+form input:focus {
+    border: none;
+    outline: 1px solid var(--primary-color);
+}
+/* ###### BUTTON AREA ####### */
+
+
+
+button {
+    border: 0;
+    padding: 5px;
+    width: 50%;
+    height: 5vh;
+    margin: 0 6.2vw;
+    margin-bottom: 5vh;
+    cursor: pointer;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    background: #769fcd
+} 
+
+button {
+    transition: all .3s ease-out;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+  }
+
+button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+ /* ###### TABLE AREA ####### */
+table {
+    border-collapse: separate;
+    text-align: center;
+    border-spacing: 2px;
+    margin: 5vh auto;
+} 
+
+table td {
+    color: #707070;
+    padding: 8px 20px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #dee2e7;
+}
+
+table th {color: var(--primary-color)}
+
+.paragraph-valid {
+    color: var(--primary-color);
+}
+
+.paragraph-invalid {
+    color: red;
+}
+
+
+
+
+
+
