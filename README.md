@@ -10,3 +10,6 @@ Aplicação que calcula IMC, mostrando diferentes níveis e bloqueando caso o us
 
 ## Conhecimentos adquiridos
 Pude trabalhar ainda mais com functions no JavaScript e entender melhor o seu funcionamento. Além de novos recursos para CSS como o botão animado. 
+
+## Link
+https://lxcvz.github.io/IMC_Calculator/
