@@ -1,10 +1,6 @@
 # IMC_Calculator
 Uma calculadora de IMC utilizando HTML, CSS e JavaScript. 
 
-## Link
-https://lxcvz.github.io/IMC_Calculator/
-
-
 <p align="center">
 <img src="img/final.png">
 </p>
@@ -14,3 +10,6 @@ Aplicação que calcula IMC, mostrando diferentes níveis e bloqueando caso o us
 
 ## Conhecimentos adquiridos
 Pude trabalhar ainda mais com functions no JavaScript e entender melhor o seu funcionamento. Além de novos recursos para CSS como o botão animado. 
+
+## Link
+https://imc-calculator-smoky.vercel.app/
